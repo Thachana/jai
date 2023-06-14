@@ -1,4 +1,7 @@
 hello
 line 2
 line 3
-line4,5,6,7,8
+line4
+line 5
+line 6
+line 7
